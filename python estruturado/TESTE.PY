@@ -19,7 +19,7 @@
 # print(carros)
 
 # TESTE DICIONÁRIOS PYTHON
-carros = []
+""" carros = []
 carro = {}
 
 print('-='*5, 'CADASTRO DE CARROS', '-='*5)
@@ -37,4 +37,4 @@ for car in carros:
         print(f'{key.title()} é {value}.')
 print('-=' * 20)
 
-print(carros)
+print(carros) """
